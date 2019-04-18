@@ -11,7 +11,7 @@ public class DragonCurve {
         System.out.println("Order 4: FLFLFRFLFLFRFRFLFLFLFRFRFLFRFRF");
         System.out.println("Order 5: FLFLFRFLFLFRFRFLFLFLFRFRFLFRFRFLFLFLFRFLFLFRFRFRFLFLFRFRFLFRFRF");
     }
-    
+
 
 
 
